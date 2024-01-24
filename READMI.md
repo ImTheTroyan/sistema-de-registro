@@ -6,3 +6,5 @@ Ejemplo:Para ejecutar el sistemas debes poner
 
 ```npm install react```
 
+Actializacion de registro 2
+
